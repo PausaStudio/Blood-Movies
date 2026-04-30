@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "tv_ao_vivo": "http://mgtvhdtv.info/get.php?username=@wislenpaiv&password=WPv13091969&type=m3u_plus",
   "filmes": "http://mgtvhdtv.info/get.php?username=@wislenpaiv&password=WPv13091969&type=m3u_plus",
   "series": "http://mgtvhdtv.info/get.php?username=@wislenpaiv&password=WPv13091969&type=m3u_plus"
